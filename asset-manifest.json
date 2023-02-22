@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "https://chinna1396.github.io/csb-hxnd7l/static/css/main.b6fc5849.chunk.css",
-    "main.js": "https://chinna1396.github.io/csb-hxnd7l/static/js/main.e68c45dd.chunk.js",
-    "main.js.map": "https://chinna1396.github.io/csb-hxnd7l/static/js/main.e68c45dd.chunk.js.map",
+    "main.js": "https://chinna1396.github.io/csb-hxnd7l/static/js/main.e53f82ba.chunk.js",
+    "main.js.map": "https://chinna1396.github.io/csb-hxnd7l/static/js/main.e53f82ba.chunk.js.map",
     "runtime-main.js": "https://chinna1396.github.io/csb-hxnd7l/static/js/runtime-main.17df7951.js",
     "runtime-main.js.map": "https://chinna1396.github.io/csb-hxnd7l/static/js/runtime-main.17df7951.js.map",
-    "static/js/2.1ef30138.chunk.js": "https://chinna1396.github.io/csb-hxnd7l/static/js/2.1ef30138.chunk.js",
-    "static/js/2.1ef30138.chunk.js.map": "https://chinna1396.github.io/csb-hxnd7l/static/js/2.1ef30138.chunk.js.map",
+    "static/js/2.26e7ed60.chunk.js": "https://chinna1396.github.io/csb-hxnd7l/static/js/2.26e7ed60.chunk.js",
+    "static/js/2.26e7ed60.chunk.js.map": "https://chinna1396.github.io/csb-hxnd7l/static/js/2.26e7ed60.chunk.js.map",
     "index.html": "https://chinna1396.github.io/csb-hxnd7l/index.html",
     "static/css/main.b6fc5849.chunk.css.map": "https://chinna1396.github.io/csb-hxnd7l/static/css/main.b6fc5849.chunk.css.map",
-    "static/js/2.1ef30138.chunk.js.LICENSE.txt": "https://chinna1396.github.io/csb-hxnd7l/static/js/2.1ef30138.chunk.js.LICENSE.txt",
+    "static/js/2.26e7ed60.chunk.js.LICENSE.txt": "https://chinna1396.github.io/csb-hxnd7l/static/js/2.26e7ed60.chunk.js.LICENSE.txt",
     "static/media/about.ec13a794.jpg": "https://chinna1396.github.io/csb-hxnd7l/static/media/about.ec13a794.jpg",
     "static/media/building.2eccaa69.jpg": "https://chinna1396.github.io/csb-hxnd7l/static/media/building.2eccaa69.jpg",
-    "static/media/servives.842b4ef3.jpg": "https://chinna1396.github.io/csb-hxnd7l/static/media/servives.842b4ef3.jpg"
+    "static/media/servives.ae41d33a.jpg": "https://chinna1396.github.io/csb-hxnd7l/static/media/servives.ae41d33a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.17df7951.js",
-    "static/js/2.1ef30138.chunk.js",
+    "static/js/2.26e7ed60.chunk.js",
     "static/css/main.b6fc5849.chunk.css",
-    "static/js/main.e68c45dd.chunk.js"
+    "static/js/main.e53f82ba.chunk.js"
   ]
 }
